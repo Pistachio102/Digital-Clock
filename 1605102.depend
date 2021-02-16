@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1492867494 source:c:\users\muntasir\desktop\nis offline\1605102\imain.cpp
+	"iGraphics.h"
+	<time.h>
+
+1492863357 c:\users\muntasir\desktop\nis offline\1605102\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
